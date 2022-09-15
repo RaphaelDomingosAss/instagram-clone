@@ -127,6 +127,9 @@ height: 50rem;
     background-image: url('./img/googleplay-button.png');
 }
 
+.footer{
+    color: #0095f6;
+}
 /*media queries*/
 
 
